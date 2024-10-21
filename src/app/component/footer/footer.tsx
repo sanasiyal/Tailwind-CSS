@@ -25,6 +25,11 @@ const Footer=()=>{
             </ul>
           </div>
           
+<div className="mt-14">
+  <input type="text"placeholder="order here" /> <br /> <br />
+  <button className="ml-12">Order Now</button>
+</div>
+
       </div>
       <h1 className="text-center text-white">Copyright © 2024</h1>
       </div>

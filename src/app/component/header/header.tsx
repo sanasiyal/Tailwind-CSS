@@ -2,7 +2,6 @@ import Link from "next/link";
 
 const Header=()=>{
     return(
-        <body>
             
       
      <nav className=" bg-black p-4 flex justify-between items-center border font-serif border-black ">
@@ -20,7 +19,7 @@ const Header=()=>{
        
 
             </nav>
-            </body>
+    
     )
 }
 export default Header;

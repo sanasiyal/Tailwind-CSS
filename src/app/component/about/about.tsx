@@ -6,7 +6,7 @@ const About =()=>{
         <div className="text-white flex space-x-32 mt-14">
            
             <div>
-                <img className="w-auto h-58 ml-12" src="./cafe.avif" alt="" />
+                <img className="w-auto h-58 ml-12" src="./cafe.webp" alt="pic" />
             </div>
             <div>
                 <h1 className="text-3xl text-center text-orange-700">HISTORY</h1> <br />
@@ -25,7 +25,7 @@ const About =()=>{
 </div>
 
 <div>
-    <img className="w-96 h-72 m-12 " src="./team2.jfif" alt="" />
+    <img className="w-auto h-72 m-12 " src="./ct.jpg" alt="pic" />
 </div>
 
 
@@ -35,7 +35,7 @@ const About =()=>{
 
 
 <div>
-    <img className="w-full h-72 m-12 " src="./events.jpg" alt="" />
+    <img className="w-full h-72 m-12 " src="./events.jpg" alt="pic" />
 </div>
 
 
